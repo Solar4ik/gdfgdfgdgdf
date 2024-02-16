@@ -9,7 +9,7 @@ from aiogram.enums import ChatAction
 import keyboards_handers
 
 dp = Dispatcher()
-bot = Bot('6497474153:AAEYBrxR66f_KpSVb00__JRuCI8Lp6AuMZ4')
+bot = Bot('')
 updateskb = InlineKeyboardMarkup(
     inline_keyboard=[
         [
